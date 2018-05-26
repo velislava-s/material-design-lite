@@ -17,6 +17,10 @@
 /* Material Design Lite */
 
 // Variables and mixins
+@import "colors";
+$color-primary: '125,30,57' !default;
+$color-accent: '97,58,90' !default;
+
 @import "variables";
 @import "mixins";
 
